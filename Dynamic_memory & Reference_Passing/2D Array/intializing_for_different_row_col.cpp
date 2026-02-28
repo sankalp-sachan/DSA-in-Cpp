@@ -14,7 +14,7 @@ int main(){
 
     for (int i = 0; i < row; i++)
     {
-        arr[i] = new int[row];
+        arr[i] = new int[row ];
     }
 
     // Taking Input
